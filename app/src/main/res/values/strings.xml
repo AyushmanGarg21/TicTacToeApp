@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="playerturn">Playerturn</string>
+    <string name="reset">RESET</string>
+    <string name="name1">Player1Name</string>
+    <string name="name2">Player2Name</string>
+    <string name="tic_tac_toe">Tic - Tac - Toe</string>
+    <string name="player_1">Player 1</string>
+    <string name="player_2">Player 2</string>
+    <string name="start">START</string>
+    <string name="o">O</string>
+    <string name="x">X</string>
+    <string name="back">Back</string>
+    <string name="win_count">Win Count</string>
+    <string name="player_one_turn">player one turn</string>
+    <string name="restartGame">RESTART</string>
+    <string name="Restart_message">Do you want a another game?</string>
+    <string name="Reset_message">Are you sure?</string>
+    <string name="exit_message">Are you sure you want to exit?</string>
+    <string name="yes">YES</string>
+    <string name="no">NO</string>
+</resources>
